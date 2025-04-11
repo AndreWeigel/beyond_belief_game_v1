@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fce9ea7-7d83-4d15-9df9-5347adeb48da" name="Changes" comment="" />
+    <list default="true" id="2fce9ea7-7d83-4d15-9df9-5347adeb48da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/BIGGY.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/leaderboard.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/nltk_data/tokenizers/punkt/PY3/english.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/nltk_data/tokenizers/punkt/english.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pusten.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/spooky_categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/end_gif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gpt_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leaderboard_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lie_gen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/xxx.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/presentations/2025-04-hackathon-beyond-belief.pptx.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/presentations/Pitch.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AndreWeigel"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AndreWeigel/beyond_belief_game_v1.git",
+    "accountId": "66a16ec3-e12d-449a-9f80-69804d409d15"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -22,11 +55,25 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/andreweigel/PycharmProjects/beyond_belief_game_v1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,8 +90,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744389325959</updated>
-      <workItem from="1744389326971" duration="4000" />
+      <workItem from="1744389326971" duration="490000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
