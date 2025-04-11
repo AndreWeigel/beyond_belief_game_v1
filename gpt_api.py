@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-API_KEY = os.getenv("SECRET_API_KEY")
+API_KEY = os.getenv("OPENAI_API_KEY")
 
 
 

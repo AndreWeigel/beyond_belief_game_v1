@@ -1,5 +1,4 @@
 import time
-import threading
 import menu
 
 def play_game():
